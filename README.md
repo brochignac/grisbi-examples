@@ -4,7 +4,13 @@
 
 In this folder, you will find the file 'Example_3.0-en.gsb`, which will help you familiarise yourself with Grisbi.
 
-Simply:
+To save the file to your computer:
+
+* click on the file name (on GitHub),
+
+* click on the ‘Download raw file’ icon in the top right-hand corner.
+
+Then, on your computer, simply:
 
 * either click on the file, which will open in Grisbi,
 
@@ -16,7 +22,13 @@ You will also find an example of a depreciation schedule provided by Grisbi.
 
 Vous trouverez dans ce dossier le fichier "Example_3.0-fr.gsb" qui vous permettra de vous familiariser avec Grisbi.
 
-Il vous suffit:
+Pour enregistrer le fichier sur votre ordinateur:
+
+* cliquer sur le nom du fichier (sur GitHub),
+
+* cliquer sur l'icone "Download raw file" en haut à droite.
+
+Puis, sur votre ordinateur, il vous suffit:
 
 * soit de cliquer sur le fichier qui s'ouvrira dans Grisbi,
 
@@ -28,7 +40,13 @@ Vous y trouverait également un exemple de tableau d'amortissement fourni par Gr
 
 In diesem Ordner finden Sie die Datei „Example_3.0-de.gsb“, mit der Sie sich mit Grisbi vertraut machen können.
 
-Sie müssen lediglich:
+So speichern Sie die Datei auf Ihrem Computer:
+
+* Klicken Sie auf den Dateinamen (auf GitHub),
+
+* klicken Sie oben rechts auf das Symbol „Download raw file“.
+
+Anschließend müssen Sie auf Ihrem Computer lediglich:
 
 * entweder auf die Datei klicken, die sich dann in Grisbi öffnet,
 
